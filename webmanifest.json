@@ -1,0 +1,17 @@
+{
+    "short_name": "my-wiki",
+    "name": "my-wiki",
+    "description": "My Wiki",
+    "icons": [{
+            "src": "./lib/img/icon_192.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        }
+    ],
+    "start_url": "./#/",
+    "background_color": "#0099fe",
+    "display": "standalone",
+    "orientation": "portrait",
+    "scope": "./",
+    "theme_color": "#0099fe"
+}
